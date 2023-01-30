@@ -1,0 +1,63 @@
+body {
+    background-image: url("images/jelleke-vanooteghem-gnxb59lGU1M-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.center1 {
+    
+    margin: 0;
+    margin-top: 8%;
+    
+    
+   
+    
+  }
+
+  nav{
+    background-color: rgb(10,49,89);
+    color: white;
+  }
+
+    .linky{
+        color: white;
+        
+    }
+
+    .navbar>.container-fluid{
+        color:white
+    }
+
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: white;
+}
+
+.table {
+    --bs-table-color: var(--bs-body-color);
+    --bs-table-bg: transparent;
+    
+    --bs-table-accent-bg: transparent;
+    
+    --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+    --bs-table-active-color: var(--bs-body-color);
+    --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+    
+    --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+    width: 100%;
+    margin-bottom: 0rem;
+    color: white;
+    vertical-align: top;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.7);
+    
+    
+    
+}
